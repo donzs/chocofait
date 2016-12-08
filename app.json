@@ -1,5 +1,7 @@
 {
 	"name": "Chocofait",
 	"description": "My Website",
-	"repository": "https://github.com/donzs/chocofait.git"
+	"repository": "https://github.com/donzs/chocofait.git",
+	"image": "heroku/nodejs"
+	
 }
