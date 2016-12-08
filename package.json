@@ -1,0 +1,29 @@
+{
+  "name": "chocofait",
+  "version": "1.0.0",
+  "description": "Chocolate Parfait Store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donzs/chocofait.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donzs/chocofait/issues"
+  },
+  "homepage": "https://github.com/username/reponame#readme",
+  "dependencies": {
+    "consolidate": "^0.14.4",
+    "express": "^4.14.0",
+    "handlebars": "^4.0.5",
+    "swig": "^1.4.2"
+  },
+  "engines": {
+    "node": "4.4.7"
+  }
+}
