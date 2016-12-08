@@ -1,6 +1,5 @@
 {
-	"name": "decodeapp",
-	"description": "decode App",
-	"repository": "https://github.com/username/reponame.git",
-	"image": "heroku/nodejs"
+	"name": "Chocofait",
+	"description": "My Website",
+	"repository": "https://github.com/donzs/chocofait.git"
 }
